@@ -1,1 +1,2 @@
-console.log("Hello World")
+// website loaded?
+console.log("👍 Okay")
